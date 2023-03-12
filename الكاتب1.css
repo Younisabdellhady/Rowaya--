@@ -1,0 +1,355 @@
+.a1{
+    width: 100%px;
+    height: 110px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    background-color:rgb(1, 8, 45);
+    position: relative;
+}
+.a111{
+    width: 32px;
+    height: 32px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 695px;
+    top: 18px;
+}
+.a111:hover{
+    width: 33px;
+    height: 33px;
+}
+.a112{
+    width: 32px;
+    height: 32px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 672px;
+    top: 18px;
+}
+.a112:hover{
+    width: 33px;
+    height: 33px;
+}
+.a113{
+    width: 32px;
+    height: 32px;
+    border-radius: 5px;
+    background-image: url("z15.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 1297px;
+    top: 36px;
+}
+.a113:hover{
+    width: 33px;
+    height: 33px;
+}
+.a2{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    padding-top: 10px;
+    position: absolute;
+    top: 25px;
+    left: 1030px;
+}
+.a3{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    padding-top: 10px;
+    position: absolute;
+    top: 25px;
+    left: 890px;
+}
+.a4{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    padding-top: 10px;
+    position: absolute;
+    top: 25px;
+    left: 760px;
+}
+.a44{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    padding-top: 10px;
+    position: absolute;
+    top: 25px;
+    left: 620px;
+}
+.a5{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    padding-top: 10px;
+    position: absolute;
+    top: 25px;
+    left: 490px;
+}
+.a6{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    padding-top: 10px;
+    position: absolute;
+    top: 25px;
+    left: 350px;
+}
+.nn{
+    width: 236px;
+    height: 21px;
+    border: 2px white solid;
+    position: absolute;
+    top: 40px;
+    left: 55px;
+}
+::placeholder{
+    font-size: large;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgba(255, 255, 255, 0.521);
+}
+
+.a13{
+    width: 900px;
+    height: 300px;
+    border: 2px rgb(1, 8, 45) solid;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 100px;
+    margin-left: 450px;
+    position: relative;
+}
+.v7{
+    width: 180px;
+    height: 180px;
+    border: 2px rgb(1, 8, 45) solid;
+    border-radius: 100px;
+    background-image: url("z30.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 650px;
+    margin-top: 75px;
+    position: absolute;
+}
+.v8{
+    width: 100px;
+    height: 50px;
+    color: rgb(1, 8, 45);
+    text-align: right;
+    font-size: 35px;
+    font-weight: 900;
+    margin-top: 15px;
+    margin-left: 760px;
+    position: absolute;
+}
+.a11{
+    text-decoration: none;
+    color: rgb(1, 8, 45);
+}
+.a11:hover{
+    color: rgba(0, 11, 66, 0.541);
+}
+.v9{
+    width: 150px;
+    height: 35px;
+    color: rgb(1, 8, 45);
+    border-radius: 20px;
+    text-align: right;
+    font-size: 28px;
+    font-weight: 900;
+    position: absolute;
+    top: 110px;
+    left: 450px;
+}
+.v10{
+    width: 300px;
+    height: 35px;
+    color: rgba(0, 0, 0, 0.616);
+    border-radius: 20px;
+    text-align: right;
+    direction: rtl;
+    font-size: 22px;
+    font-weight: 900;
+    position: absolute;
+    top: 150px;
+    left: 297px;
+}
+.e20{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 565px;
+    margin-top: 184px;
+    position: absolute;
+}
+.e20:hover{
+    width: 31px;
+    height: 31px;
+}
+.e21{
+    width: 29px;
+    height: 30px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 525px;
+    margin-top: 184px;
+    position: absolute;
+}
+.e21:hover{
+    width: 30px;
+    height: 31px;
+}
+.e40{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 483px;
+    margin-top: 184px;
+    position: absolute;
+}
+.v13:hover{
+    width: 31px;
+    height: 31px;
+}
+.v14{
+    width: 300px;
+    height: 250px;
+    border: 2px rgb(1, 8, 45) solid;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: -303px;
+    margin-left: 130px;
+    position: relative;
+}
+.v15{
+    width: 150px;
+    height: 35px;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    text-align: right;
+    font-size: 26px;
+    font-weight: 900;
+    position: absolute;
+    top: 20px;
+    left: 126px;
+}
+.e22{
+    width: 32px;
+    height: 32px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 240px;
+    top: 160px;
+}
+.e22:hover{
+    width: 33px;
+    height: 33px;
+}
+.e23{
+    width: 32px;
+    height: 32px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 196px;
+    top: 160px;
+}
+.e23:hover{
+    width: 33px;
+    height: 33px;
+}
+.v18{
+    width: 32px;
+    height: 32px;
+    border-radius: 5px;
+    background-image: url("z15.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 152px;
+    top: 160px;
+}
+.v18:hover{
+    width: 33px;
+    height: 33px;
+}
+.v19{
+    width: 300px;
+    height: 100px;
+    color: rgb(0, 0, 0);
+    text-align: right;
+    font-size: 19px;
+    font-weight: 900;
+    position: absolute;
+    top: 60px;
+    right: 25px;
+}
+.a31{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(1, 8, 45);
+    margin-top: 174px;
+    position: relative;
+}
+.a32{
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+    position: absolute;
+    top: 40px;
+    left: 500px;
+}
+.a33{
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+    position: absolute;
+    top: 40px;
+    left: 1100px;
+}
